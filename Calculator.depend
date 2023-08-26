@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1693076330 source:c:\users\dell\desktop\calculator\calculator.c
+	"Calculator.h"
+
+1693048218 c:\users\dell\desktop\calculator\calculator.h
+
+1693076367 source:c:\users\dell\desktop\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculator.h"
+
